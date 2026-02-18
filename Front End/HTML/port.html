@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Herlan Pio — Full Stack Developer portfolio. JavaScript, React, Node.js, REST APIs, SQL/NoSQL, Docker, AWS, CI/CD." />
+  <title>Herlan Pio — Full Stack Developer</title>
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="theme-color" content="#0b2545" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#home">Herlan Pio</a>
+      <nav class="nav" id="nav">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+        <a class="cta" href="#contact">Hire Me</a>
+      </nav>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+        <span class="hamburger"></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section id="home" class="hero">
+      <div class="container hero-grid">
+        <div class="intro">
+          <h1>Full Stack Developer focused on building reliable, scalable web applications</h1>
+          <p class="lead">
+            I'm a proactive and results-driven full stack developer with hands-on experience in building
+            web applications using modern JavaScript stacks. I enjoy turning product ideas into production-ready
+            features and optimizing systems for performance, reliability, and maintainability.
+          </p>
+
+          <ul class="meta">
+            <li><strong>Primary:</strong> JavaScript, React, Node.js, Express</li>
+            <li><strong>Datastores:</strong> PostgreSQL, MongoDB</li>
+            <li><strong>Deployment:</strong> Docker, GitHub Actions, AWS / Netlify</li>
+          </ul>
+
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#projects">See Projects</a>
+            <a class="btn btn-outline" href="https://github.com/HerlanPio" target="_blank" rel="noopener">View GitHub</a>
+          </div>
+        </div>
+
+        <div class="hero-card" aria-hidden="false">
+          <div class="card-inner">
+            <h3>Open to: Junior Full Stack Roles · Internships · Freelance</h3>
+            <p>
+              Seeking opportunities where I can contribute to product development, collaborate with engineering teams,
+              and grow with mentorship in Agile environments.
+            </p>
+
+            <ul class="skills-quick">
+              <li>Responsive UI</li>
+              <li>REST & GraphQL APIs</li>
+              <li>Authentication & Authorization</li>
+              <li>Unit & Integration Testing</li>
+            </ul>
+            <a class="small-link" href="#contact">Contact me →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section container">
+      <h2>Professional Summary</h2>
+      <p>
+        Passionate full stack developer experienced in building responsive single-page applications and backend services.
+        Comfortable working with JavaScript/TypeScript, cloud deployments, relational and non-relational databases,
+        and containerization. I adopt best practices such as version control (Git), code reviews, automated testing,
+        and CI/CD. I aim to deliver clean, well-documented code and collaborate closely with product and design teams.
+      </p>
+
+      <p>
+        Core strengths include problem solving, strong communication, and ownership of end-to-end features — from
+        requirement analysis and design to implementation, testing and production rollout.
+      </p>
+    </section>
+
+    <section id="skills" class="section alt-bg">
+      <div class="container">
+        <h2>Skills</h2>
+        <p class="muted">Relevant keywords for ATS: Full Stack Developer, JavaScript, React, Node.js, Express, REST API, GraphQL, TypeScript, HTML5, CSS3, SASS, Responsive Design, PostgreSQL, MongoDB, SQL, NoSQL, Docker, AWS, Netlify, Git, GitHub, CI/CD, Jest, Testing, Agile, Scrum, Pair Programming</p>
+
+        <div class="skills-grid">
+          <div class="skill-card">
+            <h3>Frontend</h3>
+            <ul>
+              <li>HTML5, CSS3, SASS</li>
+              <li>JavaScript (ES6+), TypeScript</li>
+              <li>React, Hooks, Context API</li>
+              <li>Responsive & accessible UI (ARIA)</li>
+            </ul>
+          </div>
+
+          <div class="skill-card">
+            <h3>Backend</h3>
+            <ul>
+              <li>Node.js, Express</li>
+              <li>RESTful APIs, JWT authentication</li>
+              <li>GraphQL (Apollo)</li>
+              <li>Server-side rendering basics</li>
+            </ul>
+          </div>
+
+          <div class="skill-card">
+            <h3>Databases & Storage</h3>
+            <ul>
+              <li>PostgreSQL, Sequelize/Knex</li>
+              <li>MongoDB, Mongoose</li>
+              <li>Redis (caching/session)</li>
+              <li>Cloud storage & backups</li>
+            </ul>
+          </div>
+
+          <div class="skill-card">
+            <h3>DevOps & Tools</h3>
+            <ul>
+              <li>Git, GitHub, branching & PR workflow</li>
+              <li>Docker, containerization</li>
+              <li>CI/CD with GitHub Actions</li>
+              <li>AWS (EC2, S3 basics), Netlify, Heroku</li>
+            </ul>
+          </div>
+
+          <div class="skill-card">
+            <h3>Testing & Quality</h3>
+            <ul>
+              <li>Unit & integration testing (Jest, React Testing Library)</li>
+              <li>Linting, Prettier, code reviews</li>
+              <li>Performance optimization & monitoring</li>
+            </ul>
+          </div>
+
+          <div class="skill-card">
+            <h3>Soft Skills</h3>
+            <ul>
+              <li>Strong communicator</li>
+              <li>Problem solving & debugging</li>
+              <li>Team collaboration, Agile & Scrum</li>
+              <li>Time management & ownership</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section container">
+      <h2>Selected Projects</h2>
+      <p>Real-world projects demonstrating backend integration, data handling, authentication, and production deployment.</p>
+
+      <div class="projects-grid">
+        <!-- Project 1 -->
+        <article class="project-card">
+          <h3>Credit Card Fraud Detection Dashboard</h3>
+          <p class="project-desc">Deployed an end-to-end service that serves a trained fraud detection model via an API and provides a web dashboard for visualization and alerting. This project demonstrates ML model serving, backend API design, and data visualization for operational monitoring.</p>
+          <ul class="project-meta">
+            <li><strong>Problem solved:</strong> Real-time scoring of transactions to reduce fraud losses and provide investigative context to operations teams.</li>
+            <li><strong>Technologies:</strong> Python (scikit-learn), Flask API, React dashboard, Docker, PostgreSQL, Chart.js, AWS ECS/S3</li>
+            <li><strong>Links:</strong> <a href="https://github.com/HerlanPio/Credit-Card-Fraud-Detection-using-Machine-Learning" target="_blank" rel="noopener">GitHub Repo</a> • Demo: (see README in repo)</li>
+          </ul>
+        </article>
+
+        <!-- Project 2 -->
+        <article class="project-card">
+          <h3>TaskMaster Pro — Team Task Management (Kanban)</h3>
+          <p class="project-desc">A collaborative task management app designed for small teams to manage sprints with boards, drag-and-drop tasks, role-based access and real-time updates.</p>
+          <ul class="project-meta">
+            <li><strong>Problem solved:</strong> Reduced cycle time by providing clear task ownership, status flow, and real-time updates for distributed teams.</li>
+            <li><strong>Technologies:</strong> React, Node.js, Express, MongoDB, Socket.IO, JWT Authentication, Docker, GitHub Actions</li>
+            <li><strong>Links:</strong> <a href="https://github.com/HerlanPio/taskmaster-pro" target="_blank" rel="noopener">GitHub Repo</a> • Live Demo: <a href="https://herlanpio.github.io/taskmaster-pro" target="_blank" rel="noopener">herlanpio.github.io/taskmaster-pro</a></li>
+          </ul>
+        </article>
+
+        <!-- Project 3 -->
+        <article class="project-card">
+          <h3>ShopEasy — E-commerce Prototype</h3>
+          <p class="project-desc">A prototype e-commerce platform including product catalog, search, shopping cart, checkout flow with Stripe integration, order management, and admin dashboard.</p>
+          <ul class="project-meta">
+            <li><strong>Problem solved:</strong> Demonstrates checkout reliability, secure payments, inventory checks, and order lifecycle management.</li>
+            <li><strong>Technologies:</strong> Next.js (React), Node/Express API, PostgreSQL, Sequelize, Stripe, Redis (cart), Docker, Netlify/Heroku deployment</li>
+            <li><strong>Links:</strong> <a href="https://github.com/HerlanPio/shopeasy" target="_blank" rel="noopener">GitHub Repo</a> • Demo: <a href="https://shopeasy-demo.example.com" target="_blank" rel="noopener">shopeasy-demo.example.com</a></li>
+          </ul>
+        </article>
+
+        <!-- Project 4 -->
+        <article class="project-card">
+          <h3>Portfolio & Blog Platform (This Site)</h3>
+          <p class="project-desc">This responsive portfolio demonstrates clean UI, accessibility, a small content management flow, and automated deployment via GitHub Pages / Netlify.</p>
+          <ul class="project-meta">
+            <li><strong>Problem solved:</strong> Presents professional information, project case studies, and easy contact/lead flow for recruiters.</li>
+            <li><strong>Technologies:</strong> HTML5, CSS3, JavaScript, responsive design, form handling, Netlify/GitHub Pages</li>
+            <li><strong>Links:</strong> <a href="https://github.com/HerlanPio/portfolio" target="_blank" rel="noopener">GitHub Repo</a> • Live: <a href="https://herlanpio.github.io" target="_blank" rel="noopener">herlanpio.github.io</a></li>
+          </ul>
+        </article>
+      </div>
+
+      <p class="muted">Notes: Replace demo links with actual deployed URLs when available. Each repo includes README with setup/run/test instructions and a short architecture diagram to support hiring interviews.</p>
+    </section>
+
+    <section id="education" class="section alt-bg">
+      <div class="container">
+        <h2>Education & Certifications</h2>
+        <div class="edu-grid">
+          <div class="edu-card">
+            <h3>Bachelor of Science in Computer Science</h3>
+            <p>Universidade — 2021</p>
+            <p>Relevant coursework: Data Structures & Algorithms, Databases, Web Development, Software Engineering.</p>
+          </div>
+
+          <div class="edu-card">
+            <h3>Certifications & Online</h3>
+            <ul>
+              <li>Full Stack Web Development — Coursera / [Replace with provider]</li>
+              <li>Responsive Web Design — freeCodeCamp</li>
+              <li>Docker Essentials — [Replace with provider]</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section container">
+      <h2>Contact</h2>
+      <p>I'm available for junior roles, internships, and contract work. I respond quickly to messages and am happy to share code samples, architecture notes, or walk through any project in a live call.</p>
+
+      <div class="contact-grid">
+        <div class="contact-card">
+          <h3>Get in touch</h3>
+          <ul class="contact-list">
+            <li>Email: <a href="mailto:herlanpio@example.com">herlanpio@example.com</a></li>
+            <li>GitHub: <a href="https://github.com/HerlanPio" target="_blank" rel="noopener">github.com/HerlanPio</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/herlanpio" target="_blank" rel="noopener">linkedin.com/in/herlanpio</a></li>
+          </ul>
+          <p class="muted">Tip: Include "Full Stack Applicant — [Role]" in the subject for faster response.</p>
+        </div>
+
+        <form class="contact-form" id="contactForm" action="#" onsubmit="handleContact(event)">
+          <label for="name">Name</label>
+          <input id="name" name="name" type="text" required placeholder="Your name" />
+
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" required placeholder="your@email.com" />
+
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" required placeholder="Brief message or role you're interested in"></textarea>
+
+          <button type="submit" class="btn btn-primary">Send Message</button>
+        </form>
+      </div>
+
+      <div class="download-resume">
+        <a class="btn btn-outline" href="resume.pdf" download>Download Resume (PDF)</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <small>© 2025 Herlan Pio — Full Stack Developer. Built with HTML, CSS & JavaScript.</small>
+      <div class="social">
+        <a href="https://github.com/HerlanPio" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://www.linkedin.com/in/herlanpio" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,161 @@
+1. What is Spring Boot and what are its Benefits?
+Spring Boot represents a fusion of the lightweight Spring application framework, configuration annotations, and embedded HTTP server.
+Made available with an auto-configuration feature, and support for Spring Initializer, Groovy, and Java, Spring Boot reduces Integration Test, Development, and Unit Test time.
+It aids the development of fast, responsive, and secure web applications, providing users with a complete configuration and programming model for Java enterprise applications.
+Spring Boot, utilizing the core features of the Spring application framework, offers a faster development technique for RESTful or REST architecture-based web services. 
+
+2. What makes Spring Boot superior to JAX-RS?
+By leveraging Spring Boot features, users can experience significant advantages over JAX-RS, including:
+
+Fast deployment
+High scalability
+Container compatibility
+Minimal configuration
+Lower production time
+Increased productivity 
+Reduced development time
+Easy monitoring and management of applications
+
+3. What Spring Boot features help develop Microservices Applications?
+Primarily used for developing microservices-based applications, Spring Boot offers the following key features for configuring, developing, and deploying microservices architecture.
+
+Integrates a tool called the Actuator, which enables users to manage and monitor applications
+Provides support for embedded servers, such as Jetty and Tomcat
+Users can simply run war files, without deploying it
+Includes an Auto-Configuration functionality, allowing users to configure Spring applications automatically
+Supports HTTP client.
+
+4. Why Spring Boot is preferred over any other framework?
+The Spring cloud that comes with Spring Boot, includes vast libraries, which is one of the major reasons why most developers prefer the Java-based Spring Boot. In addition, Spring Boot offers superior compatibility with Spring frameworks, and it also provides excellent support for docker containerization, heightening performance, and useability. Some of the most compelling reasons for using Spring Boot include: 
+
+Provides the best means to configure Java beans
+Offers robust batch processing 
+Helps users effectively manage Representational State Transfer (REST) endpoints
+Integrates an auto-configuration tool, eliminating the need for manual configuration 
+Enables  annotation-based configurations
+Ease of dependency management
+Includes embedded servlet containers
+
+5. What are the key dependencies of Spring Boot?
+Mentioned below are important Spring Boot dependencies that need to be added to a Gradle-based or Maven-based application, to ensure application compatibility with Spring Boot features.
+
+spring-boot-starter-parent
+spring-boot-maven-plugin
+spring-boot-starter-test
+spring-boot-starter-security
+spring-boot-starter-actuator
+Spring-boot-starter-web
+
+6. What are the advantages of Spring Boot?
+The advantages of Spring Boot are as follows:
+
+It is very simple to create Spring-based apps in Java or Groovy.
+It cuts down on development time and also increases the output.
+It eliminates the requirement to write repetitive code, annotations, and XML configuration.
+It is very simple to combine Spring Boot Application with its Spring Ecosystem, which includes Spring JDBC, Spring ORM, Spring Data, and Spring Security, among other things.
+To minimize developer effort, it employs the "Opinionated Defaults Configuration" approach.
+It provides Embedded HTTP servers such as Tomcat, Jetty, and others to help us build and test our web applications quickly.
+
+7. What are the features of Spring Boot?
+Features of Spring Boot
+
+It is an excellent Spring module for developing online applications.
+Spring Application class offers an easy way to bootstrap a Spring application that can be started from the main method.
+Spring Boot utilizes application events and listeners to handle a variety of tasks. It enables us to build factory files for adding listeners.
+Spring Boot allows you to activate admin-related features for your application.   
+8. How do you create a Spring Boot application using Maven?
+Let us learn how to create a Spring Boot application with Maven. Consider Maven is already installed and configured on your machine. Firstly create a Spring Boot application and to make it simpler create an application with a single main class.
+
+9. How do you create a Spring Boot project using Spring Initializer?
+Step-by-step instructions for making a spring boot project.
+
+Step 1: Go to https://start.spring.io and launch Spring Initializr.
+
+Step 2: Specify Project Details - Once all of the details are entered, select the Generate Project button to generate and download a Spring Boot project. Following that, unzip the downloaded zip file and transfer it into your preferred IDE.
+
+Step 3: Next open Eclipse and import the file.
+
+Select File -> Import -> Existing Maven Project in Eclipse. On the next page, navigate to or type in the path to the folder where you extracted the zip file. Maven will take some time to download all the dependencies and initialize the project after you select Finish.
+
+
+10. How do you create a Spring Boot project using boot CLI?
+Setting up the CLI: By using SDKMAN, the Spring Boot CLI (Command-Line Interface) can be directly installed!
+
+Employing the CLI: Once the CLI has been installed, you can launch it by typing spring and hitting Enter.
+
+Launch a New project: By using start.spring.io and the init command, you can initiate a new project without leaving the shell.
+
+Using the Embedded Shell: For the BASH and zsh shells, Spring Boot provides command-line completion routines.
+
+11. How do you create a simple Spring Boot application?
+Check out the simplest method possible used to create a basic "Hello World!" example. Of course, there are many ways to accomplish that, but we'll choose the simplest one. We'll make use of Spring Initializr. With the selected language, version, and dependencies, that tool will automatically build the base project for us. 
+
+12. What are the Spring Boot Annotations?
+@SpringBootApplication: A configuration class that defines one or more @Bean methods and initiates auto-configuration and component scanning is indicated by the annotation.
+@EnableAutoConfiguration: Using the jar dependencies you have provided, the @EnableAutoConfiguration annotation instructs Spring Boot to "guess" how you want to configure Spring.
+@ConditionalOnMissingClass: The Class conditions are these comments' home. Depending on the existence or absence of particular classes, a configuration can be included using the @ConditionalOnClass and @ConditionalOnMissingClass annotations.
+@Conditional: A class evaluating the specific condition can be made for circumstances that are even more complicated.
+
+13. What are the Spring Boot properties?
+Spring Boot Properties files are used to configure its auto-configuration and application properties. Spring Boot has many properties that can be used to configure the behavior of the application. Some of the commonly used properties in Spring Boot include server.port, spring.profiles.active, spring.datasource.url, spring.jpa.show-sql, and many more.
+
+14. What are the Spring Boot Starters?
+Spring Boot Starters are a set of pre-configured dependencies that can be easily included in your project to quickly get started with common features or technologies. By including a starter in your project, you can quickly get up and running with minimal configuration.
+
+
+15. What is thyme leaf?
+Thyme leaf is a popular templating engine used in Spring Boot applications for building dynamic web pages. Moreover, it is humanly readable and developers can use it to create templates that can be rendered in HTML
+
+16. How to use thyme leaf?
+​​To use Thymeleaf in a Spring Boot application you should include the thymeleaf-spring-boot-starter dependency in your project. 
+
+17. How do you connect Spring Boot to the database using JPA?
+To connect Spring Boot to a database using JPA, configure the JPA properties in the application.properties or application.yml file. 
+
+18. How to connect the Spring Boot application to a database using JDBC?
+To connect the Spring Boot to a database using JDBC, configure the JDBC properties in the application.properties or application.yml file.
+
+19. What is @RestController annotation in Spring Boot?
+@RestController is a Spring Boot annotation used to create RESTful web services.
+
+20. What is @RequestMapping annotation in Spring Boot?
+@RequestMapping is a Spring Boot annotation used to map a URL request to a controller method.
+
+21. How do you create a Spring Boot application using Spring Starter Project Wizard?
+Follow the steps mentioned below to create a Spring Boot application using the Spring Starter Project Wizard, you need to follow these steps:
+
+Open your preferred IDE and select the "New Project" option.
+Next choose the "Spring Initializr" or "Spring Starter Project" option.
+Fill in the required project information, such as project name, description, and dependencies.
+Click on "Generate" to create the project structure and download the necessary dependencies.
+Start coding your application logic.
+
+22. Spring Vs Spring Boot?
+Spring is a framework that provides various modules for building enterprise-level applications.
+
+Spring Boot is a framework that simplifies Spring development by providing a pre-configured environment that enables developers to focus on building the application logic.
+
+
+23. What is a Swagger in Spring Boot?
+Swagger is used for clearly detailing and documenting RESTful APIs in a machine-readable and human-readable format, which is easily comprehensible for testers and developers, as well as individuals having little knowledge of source code.
+
+Enabling hassle-free application discovery, development, and integration, Swagger allows API consumers to interact with remote services with minimum implementation logic.
+
+24. What are Profiles in Spring Boot?
+Profiles in the Spring framework enables users to map components and beans to specific profiles, such as the Development (dev) profile, Production (prod) profile, or the Test profile. 
+
+In Spring Boot, the annotation @Profile is used to map components and beans to a certain profile. 
+
+Developers can also set up profiles using the SpringApplication, for instance, SpringApplication.setAdditionalProfiles("dev");
+
+25. What differentiates Spring Data JPA and Hibernate?
+A Java Persistence API (JPA) implementation, Hibernate facilitates Object-Relational Mapping (ORM), allowing users to store, retrieve, map, and update application data to and from Java objects and relational databases. Hibernate maps the data types in Java to SQL (Structured Query Language) data types, and the classes in java to the database tables, relieving developers from scripting data persistence SQL programs. 
+
+A Spring Data sub-project, Spring Data JPA, on the other hand, gives abstraction over the DAL (Data Access Layer) applying JPA and Object–Relational Mapping implementations, such as Hibernate. Spring Data JPA facilitates the smooth implementation of JPA repositories, and it intends to improve the overall implementation of DAL to a great extent. 
+
+Prepare Yourself to Answer All Questions!
+Automation Testing Masters ProgramEXPLORE PROGRAMPrepare Yourself to Answer All Questions!
+26. How are the @RestController and @Controller Annotation different?
+The traditional Spring @Controller annotation specifies that an annotated class represents a controller. It’s basically a @Component specialization, and it is autodetected via the classpath scanning. The @Controller annotation is used along with the annotated handler methodologies based on @RequestMapping annotations.
+
+Developers use the @RestController annotation to develop RESTful web services, utilizing the Spring Model–View–Controller (MVC). The Spring @RestController maps the request data to specified request handler methods. Once the handler method generates the response body, the @RestController modifies it to XML or JSON response.

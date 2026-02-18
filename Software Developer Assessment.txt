@@ -1,0 +1,560 @@
+Page 1:(PACKERS AND MOVERS BANGALORE)
+
+TEXT ERRORS REPORT:
+==================================================
+Section/Location: Introduction Paragraph
+Original Text: "In the recent time people asking for Packers and Movers in Bangalore for a location near me..."
+Suggested Correction: "Recently, people have been asking for Packers and Movers in Bangalore near their location..."
+Type of Error: Grammar / Sentence Structure
+Notes: Sentence is ungrammatical and lacks clarity.
+
+Section/Location: Introduction Paragraph
+Original Text: "...high definition Smart TV and also higher and furniture including sofa which requires a special care..."
+Suggested Correction: "...high-definition Smart TVs and large furniture, including sofas, which require special care..."
+Type of Error: Word Choice / Grammar
+Notes: "Higher and furniture" is incorrect; improved for clarity and flow.
+
+Section/Location: Review by "Sachin Debu"
+Original Text: "I would mostly required this for my profession as an I am being the creative interior designer..."
+Suggested Correction: "I mostly require this for my profession, as I am a creative interior designer..."
+Type of Error: Grammar / Sentence Structure
+Notes: Multiple grammar issues in one sentence.
+
+Section/Location: Review by "Sachin Debu"
+Original Text: "...delicate and also have a lot of Glass related articles..."
+Suggested Correction: "...delicate and include many glass-related items..."
+Type of Error: Capitalization / Grammar
+Notes: "Glass" should not be capitalized, and reworded for clarity.
+
+Section/Location: Review by "Sachin Debu"
+Original Text: "...complete packaging and transportation and recoil relocating..."
+Suggested Correction: "...complete packaging, transportation, and relocation..."
+Type of Error: Word Choice
+Notes: "Recoil relocating" is nonsensical; simplified for clarity.
+
+Section/Location: Review by "Sachin Debu"
+Original Text: "...perfectly handle by them over a period time."
+Suggested Correction: "...perfectly handled by them over a period of time."
+Type of Error: Tense / Grammar
+Notes: Passive voice mismatch; "handle" → "handled", missing "of".
+
+Section/Location: General Recommendation Paragraph
+Original Text: "...being reachable and answerable to any of the query and for useful suggestions."
+Suggested Correction: "...being reachable, responsive to any queries, and offering useful suggestions."
+Type of Error: Grammar / Clarity
+Notes: "Any of the query" is incorrect singular/plural usage.
+
+Section/Location: Online Booking System
+Original Text: "Might be knowing that Fatshe Packers and Movers Bangalore online booking system is one of the leading Google search..."
+Suggested Correction: "You might already know that Fatshe Packers and Movers' online booking system is one of the most searched on Google..."
+Type of Error: Grammar / Clarity
+Notes: Rewritten for natural tone and readability.
+
+Section/Location: Online Booking System
+Original Text: "...entire tracking in updates managed by these Fatshe leading internet brand management."
+Suggested Correction: "...entire tracking and updates managed by Fatshe's leading internet brand team."
+Type of Error: Grammar / Clarity
+Notes: Sentence lacks structure and is confusing as written.
+
+Section/Location: Online Booking System
+Original Text: "...the checklist and the costing and it can be done Virtually within 15 minute response time..."
+Suggested Correction: "...the checklist and cost estimate, and it can all be done virtually within 15 minutes..."
+Type of Error: Grammar / Clarity / Capitalization
+Notes: "Virtually" should not be capitalized; clarified "costing".
+
+Section/Location: Customer Review Section
+Original Text: "Fabulous home shifting experience I had with Fatshe packers and movers in Bangalore They had provided us a smooth and hassle-free move."
+Suggested Correction: "I had a fabulous home-shifting experience with Fatshe Packers and Movers in Bangalore. They provided a smooth and hassle-free move."
+Type of Error: Grammar / Sentence Structure
+Notes: Sentence fragments and run-on corrected.
+
+Section/Location: Customer Review Section
+Original Text: "...who treated my goods properly with gave the best moving service."
+Suggested Correction: "...who treated my goods properly and provided the best moving service."
+Type of Error: Grammar
+Notes: Verb structure incorrect: "with gave" → "and provided".
+
+Section/Location: Review Block (Unclear Attribution)
+Original Text: "I am reliable movers and packers in Bangalore who can help you in completely shift your belonging?"
+Suggested Correction: "Are you looking for reliable movers and packers in Bangalore who can help you completely shift your belongings?"
+Type of Error: Grammar / Pronoun Confusion
+Notes: Sentence is confusing and likely meant as a question to the reader.
+
+Section/Location: Another Review Paragraph
+Original Text: "I was planning to shift your home to Bangalore..."
+Suggested Correction: "I was planning to shift my home to Bangalore..."
+Type of Error: Pronoun Misuse
+Notes: "Your home" should be "my home" based on context.
+
+Section/Location: Review - General
+Original Text: "I had been saving your money to the highest excellence."
+Suggested Correction: "I was able to save a significant amount of money through their excellent service."
+Type of Error: Pronoun Confusion / Word Choice
+Notes: "Your money" and "highest excellence" are awkward and incorrect.
+
+Section/Location: Review – Costing
+Original Text: "Knowing how much money for packing or how much they want for moving..."
+Suggested Correction: "Knowing the cost breakdown for packing and moving..."
+Type of Error: Grammar / Clarity
+Notes: Poor phrasing; rewritten for smoother expression.
+
+Section/Location: Pricing Example
+Original Text: "Compared to the other Packers and Movers, the Fatshe packers and movers in Bangalore is the leading..."
+Suggested Correction: "Compared to other packers and movers, Fatshe Packers and Movers in Bangalore is the leading provider..."
+Type of Error: Article Usage / Capitalization
+Notes: Removed redundant "the" and fixed capitalization.
+
+Section/Location: Final Paragraph
+Original Text: "...it ensure to add more values for their sincerity as well as honesty."
+Suggested Correction: "...it added value due to their sincerity and honesty."
+Type of Error: Grammar / Word Choice
+Notes: Incorrect verb form and unclear phrasing.
+Section/Location: Final Review Paragraph (Insurance)
+Original Text:
+"I had shifted my household goods and car with availing Packers and Movers."
+Suggested Correction:
+"I shifted my household goods and car using the services of Packers and Movers."
+Type of Error: Grammar / Clarity
+Notes: "With availing" is incorrect and awkward.
+
+Section/Location: Final Review Paragraph (Insurance)
+Original Text:
+"They had provided me an all risk policy and had provided me a proper insurance policy certificate."
+Suggested Correction:
+"They provided me with an all-risk policy and a proper insurance certificate."
+Type of Error: Wordiness / Redundancy
+Notes: Repetition of "provided me" and minor grammar issues fixed.
+
+Section/Location: Footer – Contact / Advertisement
+Original Text:
+"Whatsapp Me
+To Place your Advertisement
+Call : 8121951331"
+Suggested Correction:
+"WhatsApp Me
+To place your advertisement
+Call: 8121951331"
+Type of Error: Capitalization / Formatting
+Notes: Standardize "WhatsApp" spelling and correct capitalization.
+
+Section/Location: Footer – Office Timings
+Original Text:
+"Office Timings
+Monday To Saturday 10:00 am To 8:00 pm
+Sunday Closed"
+Suggested Correction:
+Office Hours
+Monday to Saturday: 10:00 AM to 8:00 PM
+Sunday: Closed
+Type of Error: Capitalization / Formatting
+Notes: Standardized time and proper formatting for readability.
+
+IMAGE ALIGNMENT ERRORS REPORT:
+==================================================
+Section/Location: Header Banner Image
+Issue: Image quality is low and pixelated on high-resolution displays.
+Suggested Fix: Replace with a high-resolution image (minimum 1920x1080 px) for clarity on retina displays.
+Type of Error: Image Quality
+
+Section/Location: Logo or Brand Badge “Fatshe™”
+Issue: The trademark (™) symbol is very small and may be unreadable on mobile.
+Suggested Fix: Increase the padding around the brand text and ensure proper scaling on responsive layouts.
+Type of Error: Visual Readability / UI Consistency
+
+Section/Location: Image next to “SKYWING CARGO SINCE 1999”
+Issue: Image alignment breaks on tablet screens; text overlaps on some browsers.
+Suggested Fix: Apply responsive design rules (e.g., flex-wrap or media queries) to prevent overlap.
+Type of Error: Responsiveness / Layout
+
+Section/Location: Any user-submitted photo (if present, based on file inspection)
+Issue: No alt tags or descriptive captions visible for SEO or accessibility.
+Suggested Fix: Add alt attributes and image descriptions for screen readers and SEO benefits.
+Type of Error: SEO / Accessibility
+
+Page 2:(PACKERS MOVERS DELHI)
+
+TEXT ERRORS REPORT:
+==================================================
+Section/Location:Header Contact Line
+Original Text: inCall8121951331Whats AppWhatsapp Me 8121951331
+Suggested Correction: Call: 8121951331 | WhatsApp: 8121951331
+Type of Error: Spacing / Formatting
+Notes: Merged words make it unreadable. Add proper spacing and punctuation.
+
+Section/Location:Form Header
+Original Text: Want To Shift House / Office? Share Your Details here
+Suggested Correction: Want to Shift Your House or Office? Share Your Details Below
+Type of Error: Capitalization / Grammar
+Notes: Fix capitalization and use "below" for clarity and flow.
+
+Section/Location:Button/Call Label
+Original Text: CallCall9137674096
+Suggested Correction: Call: 9137674096
+Type of Error: Word Repetition
+Notes: Remove repeated word and format the contact info properly.
+
+Section/Location:Business Listing Intro Paragraph
+Original Text: You must be searching for best packer and movers in Delhi?
+Suggested Correction: Are you searching for the best packers and movers in Delhi?
+Type of Error: Grammar / Sentence Structure
+Notes: Restructure sentence as a proper question.
+
+Section/Location:Paragraph about services
+Original Text: helps you in packers and movers in Delhi charges comparison...
+Suggested Correction: helps you compare packers and movers charges in Delhi...
+Type of Error: Awkward phrasing
+Notes: Simplify and improve sentence readability.
+
+Section/Location:Repeated Reviews
+Original Text: I m found sheetal.net unique...
+Suggested Correction: I found sheetal.net unique...
+Type of Error: Typo / Grammar
+Notes: “I m” should be corrected to “I found”.
+
+Section/Location:Multiple Review Sections
+Original Text: Run-on sentences with no paragraph breaks
+Suggested Correction: Break into smaller sentences and use proper punctuation
+Type of Error: Grammar / Readability
+Notes: Improves clarity and makes reviews easier to read.
+
+Section/Location:Footer Disclaimer
+Original Text: This business directory is just a media of providing...
+Suggested Correction: This business directory is a medium for providing...
+Type of Error: Word usage
+Notes: “Media” should be replaced with “medium” in this context.
+
+Section/Location:Contact Section
+Original Text: Call : 9137674096
+Suggested Correction:  Call: 9137674096
+Type of Error: Styling / Presentation
+Notes: Use icons or consistent formatting for professional appearance.
+
+Section/Location:SEO Credit
+Original Text: SEO DONE BY : SEO Agency London
+Suggested Correction: SEO by: SEO Agency London
+Type of Error: Capitalization
+Notes: Avoid full uppercase unless for branding; looks more professional in sentence case.
+
+IMAGE ALIGNMENT ERRORS REPORT:
+==================================================
+Section/Location:Top of the Image (Header Branding)
+Original Text: PACKERS & MOVERS BANGALORE
+Suggested Correction: No change needed in text.
+Type of Error: Design Redundancy
+Notes: Branding appears both at the top of the image and on the truck’s side, causing visual repetition. Remove one for a cleaner design.
+
+Section/Location:Truck Interior (Model House)
+Original Text: House model loaded inside container
+Suggested Correction: Replace with boxed furniture or realistic items
+Type of Error: Visual Inaccuracy / Misleading Representation
+Notes: A full house model is unrealistic and misleading; doesn’t reflect actual moving services. Replace with furniture or moving boxes.
+
+Section/Location:Truck License Plate
+Original Text: Garbled/unreadable license text
+Suggested Correction: Use legible, realistic license format (e.g., KA 01 AB 1234)
+Type of Error: Image Detail Error
+Notes: Unreadable plates reduce trustworthiness and realism.
+
+Section/Location:Lighting and Shadows
+Original Text: Inconsistent light/shadow on truck and house
+Suggested Correction: Adjust shadows to match outdoor lighting
+Type of Error: Lighting/Design Consistency
+Notes: Truck lighting doesn’t match scene light source, reducing visual credibility.
+
+Page 3:(ADVERTISE WITH US)
+
+TEXT ERRORS REPORT:
+==================================================
+Section/Location: Paragraph 1, Line 1
+Original Text: "FatShe™ Business Directory is a business listing directory mainly aimed to help business in getting the highest visibility on internet."
+Suggested Correction: "FatShe™ Business Directory is a business listing platform primarily aimed at helping businesses gain maximum visibility on the internet."
+Type of Error: Grammar / Wordiness / Clarity
+Notes: "business listing directory" is redundant; "businesses" should be plural. "On internet" should be "on the internet".
+
+Section/Location: Paragraph 1, Line 2
+Original Text: "If you are interested in listing your business to reach more and more potential buyers, then contact us at info@sheetal.net ."
+Suggested Correction: "If you are interested in listing your business to reach more potential buyers, contact us at info@sheetal.net."
+Type of Error: Redundancy / Punctuation
+Notes: “more and more” is repetitive. Extra space before the period should be removed.
+
+Section/Location: Paragraph 2
+Original Text: "This website will help potential buyers and service needy to see your company possible call to action."
+Suggested Correction: "This website helps potential buyers and service seekers view your company’s call to action."
+Type of Error: Grammar / Clarity
+Notes: “service needy” is awkward and non-standard; changed to “service seekers”. Sentence structure was unclear.
+
+Section/Location: Paragraph 3
+Original Text: "With our listing you are assured of highest visibility for your brand."
+Suggested Correction: "With our listings, you are assured of the highest visibility for your brand."
+Type of Error: Article / Grammar
+Notes: Missing article "the"; “listing” should be plural if referring to general offerings.
+
+Section/Location: Paragraph 4
+Original Text: "We offer various custom plan based on your requirement, in terms of visibility."
+Suggested Correction: "We offer various custom plans based on your visibility requirements."
+Type of Error: Plurality / Style
+Notes: “Plan” should be “plans”; improved flow and conciseness.
+
+Section/Location: Paragraph 5
+Original Text: "This site gets highest traffic from natural search on Google search engine globally."
+Suggested Correction: "This site receives high traffic from organic searches on the Google search engine globally."
+Type of Error: Clarity / Word Choice
+Notes: “Natural search” should be “organic searches”; "gets" → "receives" is more formal.
+
+Section/Location: Final Sentence
+Original Text: "We keep restriction presently to the number of listing."
+Suggested Correction:"We currently limit the number of listings."
+Type of Error: Grammar / Word Choice
+Notes: Original sentence is awkward and grammatically incorrect. Improved for clarity and correctness.
+
+IMAGE ALIGNMENT ERRORS REPORT:
+==================================================
+Section/Location: Header image
+Original Text (on image):“Grab attention! Advertise here.”
+Suggested Correction: No correction needed
+Type of Error: None
+Notes: Text is clear, engaging, and grammatically correct. The visual (megaphone) matches the message. Alignment and composition are balanced.
+
+Page 4:(PACKERS MOVERS MUMBAI)
+
+TEXT ERRORS REPORT:
+==================================================
+Section/Location: Business Description (Introduction paragraph)
+Original Text:"FatShe™ Business Directory is a business listing directory mainly aimed to help business in getting the highest visibility on internet."
+Suggested Correction:"FatShe™ Business Directory is a business listing platform mainly aimed at helping businesses gain maximum visibility on the internet."
+Type of Error: Grammar / Word choice
+Notes: Use "businesses" (plural), improve readability with better phrasing, and use article "the" before "internet."
+
+Original Text:"This website will help potential buyers and service needy to see your company possible call to action."
+Suggested Correction:"This website will help potential buyers and service seekers engage with your company's call to action."
+Type of Error: Grammar / Word choice
+Notes: "Service needy" is awkward and non-standard; "service seekers" is better. The original sentence is unclear.
+
+Original Text:"We offer various custom plan based on your requirement, in terms of visibility."
+Suggested Correction:"We offer various custom plans based on your requirements for visibility."
+Type of Error: Grammar (Singular/Plural)
+Notes: Pluralize "plans" and "requirements" for agreement.
+
+Original Text:"We keep restriction presently to the number of listing."
+Suggested Correction:"We currently limit the number of listings."
+Type of Error: Grammar / Clarity
+Notes: Phrase is unnatural. “Keep restriction” is non-standard usage.
+
+Section/Location: Packers and Movers Paragraph (Main Page)
+Original Text:"Job or home relocation is surely a frustrating and stressful time for everyone."
+Suggested Correction:"Job or home relocation can be a frustrating and stressful experience for anyone."
+Type of Error: Style
+Notes: More formal and natural tone.
+
+Original Text:"You will need someone expert for this which is good in handling these type of works."
+Suggested Correction:"You will need an expert who is skilled in handling this type of work."
+Type of Error: Grammar
+Notes: Article usage and subject-verb agreement.
+
+Original Text:"FatShe packers and movers in Mumbai are one of the highly recognized firms..."
+Suggested Correction:"FatShe Packers and Movers in Mumbai is one of the most highly recognized firms..."
+Type of Error: Subject-verb agreement
+Notes: Company name treated as singular.
+
+Original Text:"...providing these services on the most affordable prices."
+Suggested Correction:"...providing these services at the most affordable prices."
+Type of Error: Preposition usage
+Notes: "At" is the correct preposition with prices.
+
+Section/Location: Client Review 3
+Original Text:"...but the prices of this company are very less as compare to others."
+Suggested Correction:"...but this company's prices are much lower compared to others."
+Type of Error: Grammar / Word usage
+Notes: Natural phrasing needed.
+
+Section/Location: Client Review 6
+Original Text:"I was worrying to give my expensive car to someone for moving it."
+Suggested Correction:"I was hesitant to give my expensive car to someone to move it."
+Type of Error: Word choice
+Notes: "Worrying to give" is incorrect structure.
+
+IMAGE ALIGNMENT ERRORS REPORT:
+==================================================
+Section/Location: Image 1 - (Boxes packed and stacked near a wall)
+Type of Error: Image Clarity & Balance
+Notes:
+The left and right side of the image appear to be stitched from different photos, leading to inconsistent lighting and shadows.
+
+Cropping is uneven — boxes on the left are cut at the edge.
+
+Section/Location: Image 2 - (Yellow “SHUBHALAKSHMI” boxes)
+Type of Error: Composition & Alignment
+Notes:
+The right side has vertically leaning wrapped items, which look imbalanced and may give an impression of clutter.
+
+Image feels crowded — spacing or separate framing might help readability and visual appeal.
+
+Page 5:(PACKERS AND MOVERS IN HYDERABAD SKYWING CARGO)
+
+TEXT ERRORS REPORT:
+==================================================
+Section/Location: Header/Title Section
+Original Text:FatShe™ Packers and Movers in Mumbai ➤ Business Directory
+Suggested Correction:FatShe™ Packers and Movers in Mumbai – Business Directory
+Type of Error: Punctuation
+Notes: Replace arrow with an en-dash or colon for cleaner formatting in professional content.
+
+Section/Location: Introduction Paragraph
+Original Text:"...help business in getting the highest visibility on internet."
+Suggested Correction:"...help businesses gain maximum visibility on the internet."
+Type of Error: Grammar & Word Choice
+Notes: Plural agreement, article usage, and smoother phrasing.
+
+Original Text:"This website will help potential buyers and service needy to see your company possible call to action."
+Suggested Correction:"This website helps potential buyers and service seekers engage with your company’s call to action."
+Type of Error: Grammar & Clarity
+Notes: “Service needy” is awkward. Fix subject-verb structure and improve overall flow.
+
+Original Text:"We offer various custom plan based on your requirement, in terms of visibility."
+Suggested Correction:"We offer various custom plans based on your visibility requirements."
+Type of Error: Grammar & Conciseness
+Notes: Subject-verb agreement, plural consistency, and better word flow.
+
+Original Text:"We keep restriction presently to the number of listing."
+Suggested Correction:"We currently limit the number of listings."
+Type of Error: Grammar & Clarity
+Notes: "Keep restriction" is incorrect phrasing; "currently limit" is cleaner.
+
+Section/Location: Main Body – Packers and Movers Description
+Original Text:"...which is good in handling these type of works."
+Suggested Correction:"...who is skilled at handling this type of work."
+Type of Error: Grammar
+Notes: "Who" for people, "these type" → "this type" (singular), "work" is uncountable.
+
+Original Text:"...at the most affordable prices."
+Suggested Correction: Correct as is.
+Type of Error: None
+Notes: This phrase is standard.
+
+Section/Location: Client Review 1
+Original Text:"I was very much worried about the thing that how would I move..."
+Suggested Correction:"I was very worried about how I would move..."
+Type of Error: Clarity & Redundancy
+Notes: "The thing that how" is awkward and redundant.
+
+Section/Location: Client Review 3
+Original Text:"...prices of this company are very less as compare to others."
+Suggested Correction:"...this company’s prices are much lower compared to others."
+Type of Error: Grammar & Word Choice
+Notes: Comparative phrase "as compare to" is incorrect.
+
+Section/Location: Client Review 6
+Original Text:"I was worrying to give my expensive car..."
+Suggested Correction:"I was hesitant to give my expensive car..."
+Type of Error: Word Usage
+Notes: "Worrying to" is incorrect verb construction.
+
+Section/Location: Client Review 10
+Original Text:"They did my whole house packing and moving is very less time."
+Suggested Correction:"They completed my entire house packing and moving in very little time."
+Type of Error: Grammar
+Notes: Correct verb form and prepositional phrase.
+
+Section/Location: Client Review 13
+Original Text:"The company has a dedicated team for understanding the needs of the clients brief."
+Suggested Correction:"The company has a dedicated team for understanding clients’ needs and briefs."
+Type of Error: Grammar
+Notes: Awkward phrasing, and possessive form required.
+
+IMAGE ALIGNMENT ERRORS REPORT:
+==================================================
+Image 1:
+Section/Location: General Composition
+Original Text: N/A (Image only)
+Suggested Correction: Consider the relationship of the subjects within the image to the potential surrounding text. The couch is central, but the movers are on either side.
+Type of Error: Composition/Layout
+Notes: If this image is used as a header, the central couch could be a focal point. If used within text, consider how text would wrap around the movers.
+
+Image 2:
+Section/Location: General Composition
+Original Text: N/A (Image only)
+Suggested Correction: Pay attention to the horizontal alignment. The couch and movers are balanced, but the background has a distinct left/right contrast.
+Type of Error: Composition/Layout
+Notes: This image could work well centered or aligned to either the left or right, depending on the desired effect.
+
+Image 3:
+Section/Location: Focus/Subject
+Original Text: N/A (Image only)
+Suggested Correction: The chair is wrapped and is the main subject. The movers are secondary.
+Type of Error: Composition
+Notes: If used with text, consider placing the chair near the text that describes the furniture being moved.
+
+Image 4:
+Section/Location: Background/Foreground
+Original Text: N/A (Image only)
+Suggested Correction: The couch and movers are the main focus, with a van in the background.
+Type of Error: Composition
+Notes: The van provides context. Consider how this background element interacts with the surrounding text or other images.
+
+Image 5:
+Section/Location: Close-up/Detail
+Original Text: N/A (Image only)
+Suggested Correction: The focus is on the mover's hands and the box.
+Type of Error: Focus
+Notes: This image could be used to highlight the care taken when moving items.
+
+Image 6:
+Section/Location: Subject/Setting
+Original Text: N/A (Image only)
+Suggested Correction: The woman and the boxes are the main subjects, set in a home office environment.
+Type of Error: Composition
+Notes: This image could be used to represent the packing process.
+
+Image 7:
+Section/Location: Action/Process
+Original Text: N/A (Image only)
+Suggested Correction: The image shows movers wrapping furniture.
+Type of Error: Composition
+Notes: This image could be used to illustrate the protective measures taken during a move.
+
+Image 8:
+Section/Location: Perspective/Angle
+Original Text: N/A (Image only)
+Suggested Correction: The image is a straightforward shot of movers carrying a box.
+Type of Error: Composition
+Notes: The image is simple and direct, which can be effective depending on the context.
+
+Image 9:
+Section/Location: Text Overlay
+Original Text: "WE ARE MOVING"
+Suggested Correction: The text is part of the image, so no correction is needed.
+Type of Error: N/A
+Notes: Consider how this text interacts with surrounding elements if the image is used as part of a larger layout. 
+
+Page 6:(CONTACT US)
+
+TEXT ERRORS REPORT:
+==================================================
+Section/Location: Contact Information
+Original Text:For all queries contact at
+Suggested Correction:For all queries, contact us at:
+Type of Error: Grammar & Punctuation
+Notes: Add a comma after "queries" and insert "us" for completeness. Add a colon to indicate that contact details follow.
+
+Original Text:contact@sheetal.net
+Suggested Correction:Correct as is.
+Type of Error: None
+Notes: Email address is valid. Optionally, it can be formatted with a mailto link for websites or digital documents.
+
+Original Text:Call Us on : 8121951331.
+Suggested Correction:Call us at: 8121951331
+Type of Error: Capitalization, Grammar & Punctuation
+Notes:
+"Us" should not be capitalized mid-sentence.
+
+"on" → "at" is more natural in modern usage for phone contact.
+
+Remove extra space before the colon.
+
+IMAGE ALIGNMENT ERRORS REPORT:
+==================================================
+Section/Location: Image Alignment with Text (Conceptual)
+Original Text: (Implied lack of explicit image placement instructions in relation to the text)
+Suggested Correction: Ensure the "Contact Us" image (image_5eb3a7.png) is strategically placed near the "For all queries contact at" section. Consider placing it as a prominent call-to-action button or an icon next to the contact details.
+Type of Error: Alignment/Integration (Conceptual)
+Notes: Without an actual layout, it's hard to specify exact alignment. However, the image clearly signifies "Contact Us." Its best use would be as an interactive button or a visual cue directly associated with the contact information provided. If this is part of a web page, ensure the image is responsive and maintains its alignment across various devices (desktop, tablet, mobile) using appropriate CSS properties (e.g., float, flexbox, grid, margin, padding). Avoid hardcoding margin-left values if trying to center or align, and instead use container properties.

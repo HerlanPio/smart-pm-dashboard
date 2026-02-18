@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YatraQuest</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Yatra Quest</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#destinations">Destinations</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h2>Welcome to Yatra Quest</h2>
+            <p>Your gateway to unforgettable journeys and seamless adventures!</p>
+            <button onclick="scrollToSection('destinations')">Explore Destinations</button>
+        </div>
+    </section>
+
+    <section id="destinations">
+        <div class="container">
+            <h2>Popular Destinations</h2>
+            <div class="destinations-grid">
+                <div class="destination-card">
+                    <img src="C:\Users\Helan Pio\Downloads\Cuddalore.jpg" alt="Cuddalore">
+                    <h3>Cuddalore</h3>
+                </div>
+                <div class="destination-card">
+                    <img src="C:\Users\Helan Pio\Downloads\Chidambaram.jpg" alt="Chidambaram">
+                    <h3>Chidambaram</h3>
+                </div>
+                <div class="destination-card">
+                    <img src="C:\Users\Helan Pio\Downloads\Vaitheeswaran Temple Kovil.jpg" alt="Vaitheeswaran Temple Kovil">
+                    <h3>VaitheeswaranKoil</h3>
+                </div>
+                <div class="destination-card">
+                    <img src="C:\Users\Helan Pio\Downloads\Sirkali.jpg" alt="Sirkali">
+                    <h3>Sirkali</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Cab Booking</h3>
+                    <p>Book Taxis to your favorite destinations at the best prices.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Hotel Reservations</h3>
+                    <p>Find and book hotels that suit your needs and budget.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Travel Insurance</h3>
+                    <p>Get comprehensive travel insurance for a worry-free trip.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Custom Packages</h3>
+                    <p>Design your own travel package with our expert guidance.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form id="contact-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 YatraQuest. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

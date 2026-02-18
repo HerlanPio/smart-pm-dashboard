@@ -1,0 +1,47 @@
+package com.reg;
+import com.prj.Exam;
+import com.prj.MyCreate;
+import com.prj.members;
+
+public class RegInfo {
+	
+	public void empName() {
+
+		System.out.println("Tony");
+		
+	}
+	public void empNo() {
+
+		System.out.println("146");
+	}
+	public void empLoc() {
+
+		System.out.println("Ngl");
+	}
+	public static void main(String[] args) {
+		
+		RegInfo k = new RegInfo();
+		
+		k.empName();
+		k.empNo();
+		k.empLoc();
+		
+		members s = new members ();
+		
+		s.memName();
+		s.memID();
+		s.memsal();
+		
+		MyCreate l = new MyCreate();
+		
+		l.studName();
+		l.studReg();
+		l.studClg();
+		
+		Exam e = new Exam();
+		
+		e.Name();
+		e.Rollno();
+		e.Hall();
+	}
+}

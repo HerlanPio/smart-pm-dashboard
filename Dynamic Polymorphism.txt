@@ -1,0 +1,29 @@
+package com.polymorphism;
+
+public class DynamicPoly extends StaticPoly {
+
+	private void Customer(String Name) {
+
+		System.out.println(Name);
+	}
+	@Override
+	public void Client(int Id) {
+	
+		System.out.println(Id);
+	}
+	private void Customer(char Gender) {
+
+		System.out.println(Gender);
+	}
+	public static void main(String[] args) {
+		
+		DynamicPoly d = new DynamicPoly();
+		
+		d.Customer("Kenny");
+		d.Client(200018);
+		d.Customer('M');
+		d.Client("Herlan");
+		d.Client(200004);
+		d.Client('M');
+	}
+}

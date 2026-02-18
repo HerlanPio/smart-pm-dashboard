@@ -1,0 +1,30 @@
+package com.prj;
+
+public class members extends MyCreate {
+	
+	public void memName() {
+
+	System.out.println("Billy");
+	
+	}
+	public void memID() {
+
+		System.out.println("35");
+	}
+	public void memsal() {
+
+		System.out.println("56549");
+	}
+	public static void main(String[] args) {
+		
+		members g = new members();
+		
+		g.studName();
+		g.studReg();
+		g.studClg();
+		g.memName();
+		g.memID();
+		g.memsal();
+		
+	}
+}
