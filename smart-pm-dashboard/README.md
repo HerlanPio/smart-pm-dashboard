@@ -144,9 +144,10 @@ bash
 6. **Theme Toggle**: Switch between dark and light themes
 
 ## Screenshots
-
-[Add screenshots of the application here]
+<img width="1919" height="1025" alt="Screenshot 2026-02-19 001143" src="https://github.com/user-attachments/assets/2acd75e2-e9fc-46d0-bf20-78424944a6a9" />
+<img width="1916" height="1027" alt="Screenshot 2026-02-19 001200" src="https://github.com/user-attachments/assets/78758bb1-aaaf-4a40-ace0-8a8130ee9f24" />
+<img width="1919" height="1026" alt="Screenshot 2026-02-19 001216" src="https://github.com/user-attachments/assets/723c848e-482b-4b11-8d3c-d06df259d18d" />
 
 ## License
 
-MIT
+@Herlan Pio
