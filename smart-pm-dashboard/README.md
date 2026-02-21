@@ -2,6 +2,10 @@
 
 A modern, responsive project management dashboard built with React.js. This application provides full CRUD functionality for managing projects with a Kanban-style board, authentication, and theme switching capabilities.
 
+🚀 Live Demo
+
+🔗 Live Site: https://smart-pm-dashboard.netlify.app
+
 ## Features
 
 ### Authentication
